@@ -1,0 +1,501 @@
+Order_ID,Date,Product,Category,Region,Quantity,Unit_Price,Sales
+1001,09-01-2026,Laptop,Electronics,East,5,32380.89,161904.45
+1002,17-09-2026,Laptop,Electronics,East,8,12498.57,99988.56
+1003,13-06-2026,Laptop,Electronics,East,10,52676.84,526768.4
+1004,25-05-2026,Laptop,Electronics,North,10,52159.43,521594.3
+1005,21-08-2026,Laptop,Electronics,North,4,126215.04,504860.16
+1006,09-02-2026,Laptop,Electronics,North,4,97809.16,391236.64
+1007,25-07-2026,Laptop,Electronics,South,10,33671.26,336712.6
+1008,13-08-2026,Laptop,Electronics,North,10,21568.6,215686.0
+1009,05-06-2026,Laptop,Electronics,West,4,86701.85,346807.4
+1010,21-03-2026,Laptop,Electronics,West,5,61912.62,309563.1
+1011,09-06-2026,Laptop,Electronics,East,4,122689.48,490757.92
+1012,25-04-2026,Laptop,Electronics,South,4,131685.95,526743.8
+1013,05-05-2026,Laptop,Electronics,West,6,42452.36,254714.16
+1014,09-02-2026,Laptop,Electronics,North,4,70897.2,283588.8
+1015,25-04-2026,Laptop,Electronics,West,7,31015.06,217105.42
+1016,05-03-2026,Laptop,Electronics,North,7,22495.85,157470.95
+1017,25-03-2026,Laptop,Electronics,North,4,37112.9,148451.6
+1018,17-07-2026,Laptop,Electronics,East,9,27915.34,251238.06
+1019,25-07-2026,Laptop,Electronics,South,5,76200.36,381001.8
+1020,21-02-2026,Laptop,Electronics,West,7,76442.3,535096.1
+1021,13-02-2026,Laptop,Electronics,East,7,88981.52,622870.64
+1022,17-04-2026,Laptop,Electronics,North,5,105923.34,529616.7
+1023,05-03-2026,Laptop,Electronics,South,5,58265.94,291329.7
+1024,09-05-2026,Laptop,Electronics,West,9,46763.42,420870.78
+1025,25-09-2026,Laptop,Electronics,East,3,54491.42,163474.26
+1026,13-08-2026,Laptop,Electronics,East,5,72971.55,364857.75
+1027,05-01-2026,Laptop,Electronics,North,5,76273.38,381366.9
+1028,21-08-2026,Laptop,Electronics,North,5,35264.62,176323.1
+1029,25-04-2026,Laptop,Electronics,East,2,191904.7,383809.4
+1030,21-06-2026,Laptop,Electronics,North,10,26982.22,269822.2
+1031,21-09-2026,Laptop,Electronics,East,5,29397.68,146988.4
+1032,17-03-2026,Laptop,Electronics,North,6,47708.52,286251.12
+1033,13-08-2026,Laptop,Electronics,East,4,78203.54,312814.16
+1034,17-04-2026,Laptop,Electronics,South,7,47608.85,333261.95
+1035,05-02-2026,Laptop,Electronics,West,6,32053.2,192319.2
+1036,21-07-2026,Laptop,Electronics,West,4,66123.53,264494.12
+1037,17-04-2026,Laptop,Electronics,West,8,55634.13,445073.04
+1038,09-04-2026,Laptop,Electronics,South,6,83079.06,498474.36
+1039,13-09-2026,Laptop,Electronics,West,7,16844.95,117914.65
+1040,13-05-2026,Laptop,Electronics,West,9,39688.01,357192.09
+1041,17-08-2026,Laptop,Electronics,South,4,104113.61,416454.44
+1042,17-09-2026,Laptop,Electronics,South,5,81134.76,405673.8
+1043,25-01-2026,Laptop,Electronics,North,4,44021.34,176085.36
+1044,13-05-2026,Laptop,Electronics,West,5,80865.95,404329.75
+1045,17-01-2026,Laptop,Electronics,West,4,72046.16,288184.64
+1046,17-05-2026,Laptop,Electronics,West,10,25155.96,251559.6
+1047,21-07-2026,Laptop,Electronics,West,6,49886.26,299317.56
+1048,25-07-2026,Laptop,Electronics,West,3,67531.63,202594.89
+1049,17-03-2026,Laptop,Electronics,North,7,21250.34,148752.38
+1050,25-01-2026,Laptop,Electronics,North,5,76716.18,383580.9
+1051,13-06-2026,Laptop,Electronics,West,4,69271.87,277087.48
+1052,25-09-2026,Laptop,Electronics,North,8,30966.92,247735.36
+1053,17-06-2026,Laptop,Electronics,North,6,89914.91,539489.46
+1054,21-08-2026,Laptop,Electronics,North,7,55572.88,389010.16
+1055,17-05-2026,Laptop,Electronics,West,5,90192.64,450963.2
+1056,09-09-2026,Laptop,Electronics,West,6,16550.77,99304.62
+1057,25-03-2026,Laptop,Electronics,North,4,78064.63,312258.52
+1058,13-09-2026,Laptop,Electronics,East,4,33031.4,132125.6
+1059,21-08-2026,Laptop,Electronics,North,7,51555.21,360886.47
+1060,25-05-2026,Laptop,Electronics,South,10,43900.34,439003.4
+1061,13-01-2026,Laptop,Electronics,South,5,62476.33,312381.65
+1062,21-07-2026,Laptop,Electronics,South,3,137535.94,412607.82
+1063,09-03-2026,Smartphone,Electronics,South,8,21950.86,175606.88
+1064,17-05-2026,Smartphone,Electronics,East,3,39076.9,117230.7
+1065,17-06-2026,Smartphone,Electronics,North,10,14752.26,147522.6
+1066,25-04-2026,Smartphone,Electronics,South,6,49868.96,299213.76
+1067,21-02-2026,Smartphone,Electronics,West,8,20820.37,166562.96
+1068,13-08-2026,Smartphone,Electronics,North,5,31345.97,156729.85
+1069,21-04-2026,Smartphone,Electronics,West,7,20013.6,140095.2
+1070,25-02-2026,Smartphone,Electronics,West,4,36319.88,145279.52
+1071,17-07-2026,Smartphone,Electronics,East,3,50170.67,150512.01
+1072,21-07-2026,Smartphone,Electronics,North,10,14417.31,144173.1
+1073,05-03-2026,Smartphone,Electronics,North,4,23632.41,94529.64
+1074,17-09-2026,Smartphone,Electronics,West,7,9828.07,68796.49
+1075,17-03-2026,Smartphone,Electronics,East,4,45546.54,182186.16
+1076,05-06-2026,Smartphone,Electronics,West,7,18877.57,132142.99
+1077,21-05-2026,Smartphone,Electronics,West,5,32228.85,161144.25
+1078,09-01-2026,Smartphone,Electronics,South,7,30459.64,213217.48
+1079,05-04-2026,Smartphone,Electronics,West,3,64859.27,194577.81
+1080,09-09-2026,Smartphone,Electronics,East,8,14055.36,112442.88
+1081,25-09-2026,Smartphone,Electronics,East,3,14461.04,43383.12
+1082,17-09-2026,Smartphone,Electronics,West,10,7702.3,77023.0
+1083,13-06-2026,Smartphone,Electronics,East,5,20705.54,103527.7
+1084,21-08-2026,Smartphone,Electronics,West,3,56214.97,168644.91
+1085,09-06-2026,Smartphone,Electronics,West,3,31808.06,95424.18
+1086,13-03-2026,Smartphone,Electronics,East,1,149131.21,149131.21
+1087,13-02-2026,Smartphone,Electronics,West,6,17915.24,107491.44
+1088,21-02-2026,Smartphone,Electronics,East,6,30193.54,181161.24
+1089,13-01-2026,Smartphone,Electronics,East,3,41872.27,125616.81
+1090,09-01-2026,Smartphone,Electronics,North,9,14961.79,134656.11
+1091,25-04-2026,Smartphone,Electronics,East,5,52152.15,260760.75
+1092,09-01-2026,Smartphone,Electronics,South,2,77780.96,155561.92
+1093,25-05-2026,Smartphone,Electronics,South,5,66612.17,333060.85
+1094,05-06-2026,Smartphone,Electronics,South,7,42180.32,295262.24
+1095,05-07-2026,Smartphone,Electronics,North,2,75691.22,151382.44
+1096,13-03-2026,Smartphone,Electronics,East,7,12516.94,87618.58
+1097,09-08-2026,Smartphone,Electronics,West,3,33497.24,100491.72
+1098,17-09-2026,Smartphone,Electronics,South,4,38458.82,153835.28
+1099,25-09-2026,Smartphone,Electronics,North,2,51180.66,102361.32
+1100,25-08-2026,Smartphone,Electronics,West,4,42643.84,170575.36
+1101,25-09-2026,Smartphone,Electronics,West,2,50000.68,100001.36
+1102,05-06-2026,Smartphone,Electronics,West,6,15406.19,92437.14
+1103,05-04-2026,Smartphone,Electronics,North,6,44945.75,269674.5
+1104,25-09-2026,Smartphone,Electronics,West,4,21995.69,87982.76
+1105,05-06-2026,Smartphone,Electronics,South,2,138986.03,277972.06
+1106,09-09-2026,Smartphone,Electronics,North,5,22130.67,110653.35
+1107,05-09-2026,Smartphone,Electronics,North,3,31237.52,93712.56
+1108,13-04-2026,Smartphone,Electronics,East,5,21098.21,105491.05
+1109,21-04-2026,Smartphone,Electronics,South,9,41331.82,371986.38
+1110,25-06-2026,Smartphone,Electronics,South,4,96657.65,386630.6
+1111,09-07-2026,Smartphone,Electronics,North,8,21160.03,169280.24
+1112,17-04-2026,Smartphone,Electronics,East,2,118773.24,237546.48
+1113,05-02-2026,Smartphone,Electronics,South,5,73018.0,365090.0
+1114,25-08-2026,Smartphone,Electronics,East,6,29543.7,177262.2
+1115,13-03-2026,Smartphone,Electronics,West,5,20799.56,103997.8
+1116,13-07-2026,Smartphone,Electronics,North,7,16302.68,114118.76
+1117,13-08-2026,Tablet,Electronics,North,9,12379.17,111412.53
+1118,09-09-2026,Tablet,Electronics,South,7,17266.08,120862.56
+1119,05-09-2026,Tablet,Electronics,West,4,23597.2,94388.8
+1120,05-01-2026,Tablet,Electronics,North,3,54883.77,164651.31
+1121,21-01-2026,Tablet,Electronics,North,4,24983.82,99935.28
+1122,05-08-2026,Tablet,Electronics,South,2,75001.91,150003.82
+1123,09-09-2026,Tablet,Electronics,South,4,31522.08,126088.32
+1124,17-04-2026,Tablet,Electronics,West,3,23058.47,69175.41
+1125,13-08-2026,Tablet,Electronics,West,5,34352.84,171764.2
+1126,09-02-2026,Tablet,Electronics,North,4,31245.51,124982.04
+1127,05-07-2026,Tablet,Electronics,South,5,24166.95,120834.75
+1128,25-04-2026,Tablet,Electronics,East,3,41670.75,125012.25
+1129,21-03-2026,Tablet,Electronics,East,6,9760.36,58562.16
+1130,09-09-2026,Tablet,Electronics,East,1,74929.88,74929.88
+1131,05-05-2026,Tablet,Electronics,East,1,136366.66,136366.66
+1132,13-06-2026,Tablet,Electronics,West,5,22148.09,110740.45
+1133,13-07-2026,Tablet,Electronics,West,3,37540.51,112621.53
+1134,21-06-2026,Tablet,Electronics,West,5,20376.95,101884.75
+1135,21-08-2026,Tablet,Electronics,East,5,18828.12,94140.6
+1136,17-05-2026,Tablet,Electronics,East,6,29319.74,175918.44
+1137,05-08-2026,Tablet,Electronics,East,4,39240.73,156962.92
+1138,13-02-2026,Tablet,Electronics,East,5,38401.81,192009.05
+1139,25-06-2026,Tablet,Electronics,East,4,21130.72,84522.88
+1140,13-09-2026,Tablet,Electronics,West,6,13615.24,81691.44
+1141,05-08-2026,Tablet,Electronics,South,4,50396.04,201584.16
+1142,21-09-2026,Tablet,Electronics,East,7,8776.8,61437.6
+1143,13-03-2026,Tablet,Electronics,South,1,150808.52,150808.52
+1144,09-03-2026,Tablet,Electronics,East,4,19815.93,79263.72
+1145,09-04-2026,Tablet,Electronics,East,2,41752.18,83504.36
+1146,17-06-2026,Tablet,Electronics,South,7,20265.47,141858.29
+1147,09-03-2026,Tablet,Electronics,West,3,27039.83,81119.49
+1148,05-09-2026,Tablet,Electronics,North,6,10008.38,60050.28
+1149,13-04-2026,Tablet,Electronics,East,4,57426.94,229707.76
+1150,25-03-2026,Tablet,Electronics,West,5,10384.32,51921.6
+1151,25-05-2026,Tablet,Electronics,South,8,25251.7,202013.6
+1152,25-05-2026,Tablet,Electronics,West,9,20707.61,186368.49
+1153,25-01-2026,Tablet,Electronics,West,4,37167.54,148670.16
+1154,21-02-2026,Tablet,Electronics,South,4,78056.52,312226.08
+1155,17-01-2026,Tablet,Electronics,South,6,26129.25,156775.5
+1156,13-07-2026,Tablet,Electronics,East,5,11589.47,57947.35
+1157,25-05-2026,Tablet,Electronics,West,3,61758.69,185276.07
+1158,21-08-2026,Tablet,Electronics,South,4,26965.44,107861.76
+1159,21-07-2026,Tablet,Electronics,West,5,20074.59,100372.95
+1160,05-03-2026,Tablet,Electronics,East,4,29279.58,117118.32
+1161,09-09-2026,Desk,Furniture,South,5,11981.55,59907.75
+1162,25-07-2026,Desk,Furniture,East,5,5907.49,29537.45
+1163,21-08-2026,Desk,Furniture,North,3,20385.44,61156.32
+1164,05-05-2026,Desk,Furniture,North,5,7755.9,38779.5
+1165,21-02-2026,Desk,Furniture,North,7,4787.58,33513.06
+1166,17-01-2026,Desk,Furniture,West,5,6525.34,32626.7
+1167,13-08-2026,Desk,Furniture,South,3,28749.02,86247.06
+1168,17-07-2026,Desk,Furniture,South,5,15164.91,75824.55
+1169,13-06-2026,Desk,Furniture,East,10,7697.69,76976.9
+1170,13-04-2026,Desk,Furniture,South,8,8044.63,64357.04
+1171,21-08-2026,Desk,Furniture,North,2,37817.48,75634.96
+1172,09-05-2026,Desk,Furniture,North,5,12117.2,60586.0
+1173,25-06-2026,Desk,Furniture,South,6,17254.78,103528.68
+1174,05-03-2026,Desk,Furniture,South,5,7442.84,37214.2
+1175,13-07-2026,Desk,Furniture,East,6,4757.14,28542.84
+1176,21-07-2026,Desk,Furniture,South,5,12904.73,64523.65
+1177,21-09-2026,Desk,Furniture,West,4,8123.66,32494.64
+1178,13-08-2026,Desk,Furniture,East,7,10572.83,74009.81
+1179,09-05-2026,Desk,Furniture,South,2,44637.98,89275.96
+1180,21-04-2026,Desk,Furniture,West,4,6650.44,26601.76
+1181,13-01-2026,Desk,Furniture,North,3,11978.89,35936.67
+1182,05-09-2026,Desk,Furniture,North,2,8980.22,17960.44
+1183,25-09-2026,Desk,Furniture,West,8,1914.2,15313.6
+1184,09-02-2026,Desk,Furniture,South,5,21681.89,108409.45
+1185,05-01-2026,Desk,Furniture,North,5,12715.91,63579.55
+1186,25-07-2026,Desk,Furniture,West,7,6260.28,43821.96
+1187,09-02-2026,Desk,Furniture,North,3,15085.02,45255.06
+1188,17-05-2026,Desk,Furniture,East,3,19890.43,59671.29
+1189,17-08-2026,Desk,Furniture,East,5,14217.15,71085.75
+1190,17-03-2026,Desk,Furniture,South,8,7878.01,63024.08
+1191,05-09-2026,Desk,Furniture,West,9,2034.51,18310.59
+1192,13-09-2026,Desk,Furniture,West,7,3224.21,22569.47
+1193,05-09-2026,Desk,Furniture,West,5,4578.75,22893.75
+1194,21-03-2026,Desk,Furniture,North,3,20404.04,61212.12
+1195,05-06-2026,Desk,Furniture,South,6,16865.19,101191.14
+1196,13-03-2026,Desk,Furniture,North,4,14591.61,58366.44
+1197,25-06-2026,Desk,Furniture,South,6,11245.04,67470.24
+1198,09-09-2026,Desk,Furniture,West,7,2764.1,19348.7
+1199,09-06-2026,Desk,Furniture,South,5,22650.88,113254.4
+1200,05-08-2026,Desk,Furniture,South,5,11883.31,59416.55
+1201,09-08-2026,Desk,Furniture,South,10,9800.07,98000.7
+1202,17-04-2026,Desk,Furniture,South,5,23177.51,115887.55
+1203,13-04-2026,Desk,Furniture,East,3,13267.1,39801.3
+1204,13-08-2026,Desk,Furniture,West,8,7415.41,59323.28
+1205,25-07-2026,Desk,Furniture,West,5,10068.19,50340.95
+1206,09-03-2026,Desk,Furniture,East,6,9442.57,56655.42
+1207,17-04-2026,Desk,Furniture,North,5,7833.84,39169.2
+1208,25-06-2026,Desk,Furniture,East,5,11464.15,57320.75
+1209,13-02-2026,Desk,Furniture,North,3,13301.87,39905.61
+1210,05-05-2026,Desk,Furniture,North,2,35502.75,71005.5
+1211,05-02-2026,Desk,Furniture,South,5,14371.29,71856.45
+1212,21-07-2026,Monitor,Electronics,North,10,3594.08,35940.8
+1213,13-03-2026,Monitor,Electronics,East,1,46083.73,46083.73
+1214,13-04-2026,Monitor,Electronics,West,5,15023.63,75118.15
+1215,17-04-2026,Monitor,Electronics,East,4,9995.78,39983.12
+1216,17-01-2026,Monitor,Electronics,South,4,25017.56,100070.24
+1217,05-05-2026,Monitor,Electronics,North,6,12216.77,73300.62
+1218,09-07-2026,Monitor,Electronics,North,7,4005.35,28037.45
+1219,21-09-2026,Monitor,Electronics,East,7,5712.09,39984.63
+1220,09-06-2026,Monitor,Electronics,West,5,6937.13,34685.65
+1221,25-09-2026,Monitor,Electronics,East,7,5145.06,36015.42
+1222,21-06-2026,Monitor,Electronics,North,3,16206.12,48618.36
+1223,13-09-2026,Monitor,Electronics,West,3,7153.63,21460.89
+1224,13-01-2026,Monitor,Electronics,South,2,45697.64,91395.28
+1225,13-07-2026,Monitor,Electronics,West,3,7029.53,21088.59
+1226,17-03-2026,Monitor,Electronics,South,4,15541.15,62164.6
+1227,25-01-2026,Monitor,Electronics,South,7,6860.02,48020.14
+1228,05-02-2026,Monitor,Electronics,South,7,20639.2,144474.4
+1229,05-09-2026,Monitor,Electronics,West,9,3591.6,32324.4
+1230,05-04-2026,Monitor,Electronics,East,3,22537.78,67613.34
+1231,05-09-2026,Monitor,Electronics,South,7,7697.88,53885.16
+1232,25-04-2026,Monitor,Electronics,South,3,36408.22,109224.66
+1233,21-01-2026,Monitor,Electronics,East,3,9643.54,28930.62
+1234,13-03-2026,Monitor,Electronics,South,10,3785.97,37859.7
+1235,09-06-2026,Monitor,Electronics,South,5,10813.53,54067.65
+1236,05-08-2026,Monitor,Electronics,East,4,8392.28,33569.12
+1237,13-04-2026,Monitor,Electronics,West,4,18299.34,73197.36
+1238,09-02-2026,Monitor,Electronics,East,6,13400.72,80404.32
+1239,21-09-2026,Monitor,Electronics,South,5,11056.41,55282.05
+1240,17-01-2026,Monitor,Electronics,North,3,13771.55,41314.65
+1241,21-03-2026,Monitor,Electronics,North,5,9685.6,48428.0
+1242,21-01-2026,Monitor,Electronics,East,5,13045.07,65225.35
+1243,05-02-2026,Monitor,Electronics,West,4,18001.74,72006.96
+1244,09-09-2026,Monitor,Electronics,West,5,2949.62,14748.1
+1245,21-04-2026,Monitor,Electronics,South,4,27494.63,109978.52
+1246,25-08-2026,Monitor,Electronics,South,5,16628.11,83140.55
+1247,21-02-2026,Monitor,Electronics,East,3,33432.35,100297.05
+1248,05-06-2026,Monitor,Electronics,West,6,10675.71,64054.26
+1249,25-05-2026,Monitor,Electronics,East,6,5788.17,34729.02
+1250,13-02-2026,Monitor,Electronics,East,2,41524.69,83049.38
+1251,21-03-2026,Monitor,Electronics,East,6,6972.08,41832.48
+1252,09-02-2026,Monitor,Electronics,West,2,37937.4,75874.8
+1253,05-05-2026,Office Chair,Furniture,North,8,4667.77,37342.16
+1254,17-01-2026,Office Chair,Furniture,South,4,12428.31,49713.24
+1255,25-04-2026,Office Chair,Furniture,South,10,9913.06,99130.6
+1256,05-01-2026,Office Chair,Furniture,East,4,6840.58,27362.32
+1257,13-02-2026,Office Chair,Furniture,South,10,5925.33,59253.3
+1258,13-07-2026,Office Chair,Furniture,North,6,3152.03,18912.18
+1259,17-09-2026,Office Chair,Furniture,South,6,3874.44,23246.64
+1260,09-07-2026,Office Chair,Furniture,East,3,11471.4,34414.2
+1261,13-02-2026,Office Chair,Furniture,West,6,8053.95,48323.7
+1262,05-09-2026,Office Chair,Furniture,North,5,4032.19,20160.95
+1263,17-04-2026,Office Chair,Furniture,South,2,32995.98,65991.96
+1264,21-08-2026,Office Chair,Furniture,West,7,6792.4,47546.8
+1265,09-01-2026,Office Chair,Furniture,East,5,5408.72,27043.6
+1266,13-01-2026,Office Chair,Furniture,South,6,8174.04,49044.24
+1267,17-08-2026,Office Chair,Furniture,West,3,5952.54,17857.62
+1268,13-09-2026,Office Chair,Furniture,West,6,3182.42,19094.52
+1269,05-09-2026,Office Chair,Furniture,West,5,4693.14,23465.7
+1270,09-04-2026,Office Chair,Furniture,East,6,9143.59,54861.54
+1271,17-08-2026,Office Chair,Furniture,South,5,11217.03,56085.15
+1272,09-02-2026,Office Chair,Furniture,East,3,12173.04,36519.12
+1273,21-01-2026,Office Chair,Furniture,South,2,13311.29,26622.58
+1274,21-07-2026,Office Chair,Furniture,East,5,7774.94,38874.7
+1275,13-06-2026,Office Chair,Furniture,West,4,13672.4,54689.6
+1276,09-02-2026,Office Chair,Furniture,South,5,12702.42,63512.1
+1277,05-04-2026,Office Chair,Furniture,East,10,5671.75,56717.5
+1278,25-08-2026,Office Chair,Furniture,West,7,6042.43,42297.01
+1279,05-07-2026,Office Chair,Furniture,North,6,6798.62,40791.72
+1280,25-02-2026,Office Chair,Furniture,West,5,7715.37,38576.85
+1281,09-01-2026,Office Chair,Furniture,South,9,4457.05,40113.45
+1282,21-05-2026,Office Chair,Furniture,North,2,12080.92,24161.84
+1283,21-08-2026,Office Chair,Furniture,South,5,9703.93,48519.65
+1284,17-02-2026,Office Chair,Furniture,North,9,5611.53,50503.77
+1285,25-08-2026,Office Chair,Furniture,West,6,7708.21,46249.26
+1286,09-01-2026,Office Chair,Furniture,South,4,13252.08,53008.32
+1287,21-02-2026,Office Chair,Furniture,North,5,9216.92,46084.6
+1288,25-05-2026,Office Chair,Furniture,North,5,10630.94,53154.7
+1289,05-09-2026,Office Chair,Furniture,East,5,2395.93,11979.65
+1290,25-05-2026,Office Chair,Furniture,East,6,3885.38,23312.28
+1291,25-01-2026,Office Chair,Furniture,North,8,3818.3,30546.4
+1292,13-08-2026,Office Chair,Furniture,North,7,6121.11,42847.77
+1293,09-03-2026,Office Chair,Furniture,East,8,5188.81,41510.48
+1294,09-07-2026,Office Chair,Furniture,North,10,3478.66,34786.6
+1295,05-08-2026,Office Chair,Furniture,North,7,4499.71,31497.97
+1296,21-04-2026,Office Chair,Furniture,East,4,12206.64,48826.56
+1297,17-09-2026,Office Chair,Furniture,South,6,8040.39,48242.34
+1298,09-02-2026,Office Chair,Furniture,South,5,13364.51,66822.55
+1299,05-08-2026,Office Chair,Furniture,North,6,6822.22,40933.32
+1300,05-05-2026,Office Chair,Furniture,East,6,8149.59,48897.54
+1301,25-08-2026,Office Chair,Furniture,South,6,10603.26,63619.56
+1302,21-01-2026,Office Chair,Furniture,West,5,6566.23,32831.15
+1303,05-08-2026,Office Chair,Furniture,North,6,9289.61,55737.66
+1304,21-01-2026,Office Chair,Furniture,East,9,5083.27,45749.43
+1305,21-07-2026,Office Chair,Furniture,South,7,9980.13,69860.91
+1306,17-05-2026,Office Chair,Furniture,East,5,13351.34,66756.7
+1307,09-09-2026,Office Chair,Furniture,North,3,8273.66,24820.98
+1308,05-08-2026,Printer,Office Equipment,West,3,10439.29,31317.87
+1309,17-09-2026,Printer,Office Equipment,West,7,3886.75,27207.25
+1310,25-03-2026,Printer,Office Equipment,East,3,12014.91,36044.73
+1311,21-08-2026,Printer,Office Equipment,North,4,7841.46,31365.84
+1312,05-09-2026,Printer,Office Equipment,North,5,5579.15,27895.75
+1313,09-02-2026,Printer,Office Equipment,East,4,13027.69,52110.76
+1314,25-07-2026,Printer,Office Equipment,West,8,2112.81,16902.48
+1315,05-09-2026,Printer,Office Equipment,East,4,8521.98,34087.92
+1316,13-03-2026,Printer,Office Equipment,South,7,11287.38,79011.66
+1317,25-08-2026,Printer,Office Equipment,West,5,5705.71,28528.55
+1318,17-06-2026,Printer,Office Equipment,South,8,6688.9,53511.2
+1319,21-05-2026,Printer,Office Equipment,South,8,13323.05,106584.4
+1320,25-01-2026,Printer,Office Equipment,South,4,22305.4,89221.6
+1321,09-01-2026,Printer,Office Equipment,North,4,12174.27,48697.08
+1322,25-08-2026,Printer,Office Equipment,South,3,24159.86,72479.58
+1323,09-08-2026,Printer,Office Equipment,South,8,10908.96,87271.68
+1324,13-09-2026,Printer,Office Equipment,East,7,3283.93,22987.51
+1325,05-06-2026,Printer,Office Equipment,South,6,8741.51,52449.06
+1326,13-01-2026,Printer,Office Equipment,East,5,8093.54,40467.7
+1327,13-01-2026,Printer,Office Equipment,North,6,5383.92,32303.52
+1328,05-07-2026,Printer,Office Equipment,East,6,4392.48,26354.88
+1329,17-03-2026,Printer,Office Equipment,North,2,25114.88,50229.76
+1330,25-04-2026,Printer,Office Equipment,East,5,8674.9,43374.5
+1331,05-07-2026,Printer,Office Equipment,East,5,7552.28,37761.4
+1332,17-01-2026,Printer,Office Equipment,South,8,4310.07,34480.56
+1333,13-07-2026,Printer,Office Equipment,West,6,3551.36,21308.16
+1334,21-04-2026,Printer,Office Equipment,West,5,13760.51,68802.55
+1335,13-07-2026,Printer,Office Equipment,East,6,4831.41,28988.46
+1336,13-04-2026,Printer,Office Equipment,East,6,9891.56,59349.36
+1337,09-07-2026,Printer,Office Equipment,North,10,3959.42,39594.2
+1338,25-09-2026,Printer,Office Equipment,East,6,4014.22,24085.32
+1339,09-03-2026,Printer,Office Equipment,East,6,7378.6,44271.6
+1340,21-02-2026,Printer,Office Equipment,South,5,21067.25,105336.25
+1341,13-06-2026,Printer,Office Equipment,South,7,16987.54,118912.78
+1342,13-08-2026,Printer,Office Equipment,North,3,22964.82,68894.46
+1343,05-01-2026,Printer,Office Equipment,South,1,57741.34,57741.34
+1344,09-08-2026,Printer,Office Equipment,South,6,7814.16,46884.96
+1345,05-02-2026,Printer,Office Equipment,South,2,34147.43,68294.86
+1346,25-07-2026,Printer,Office Equipment,North,4,10957.76,43831.04
+1347,13-08-2026,Headphones,Accessories,East,4,4354.59,17418.36
+1348,25-03-2026,Headphones,Accessories,East,2,4933.58,9867.16
+1349,21-07-2026,Headphones,Accessories,North,4,2769.15,11076.6
+1350,09-07-2026,Headphones,Accessories,East,7,1855.82,12990.74
+1351,13-06-2026,Headphones,Accessories,East,2,8131.45,16262.9
+1352,13-07-2026,Headphones,Accessories,North,1,5052.09,5052.09
+1353,25-09-2026,Headphones,Accessories,South,5,1456.43,7282.15
+1354,13-05-2026,Headphones,Accessories,North,7,1915.09,13405.63
+1355,05-09-2026,Headphones,Accessories,West,7,1127.18,7890.26
+1356,05-02-2026,Headphones,Accessories,North,7,3134.06,21938.42
+1357,09-07-2026,Headphones,Accessories,North,5,1500.14,7500.7
+1358,09-07-2026,Headphones,Accessories,North,8,889.83,7118.64
+1359,13-03-2026,Headphones,Accessories,North,5,1860.85,9304.25
+1360,09-07-2026,Headphones,Accessories,North,6,841.73,5050.38
+1361,25-08-2026,Headphones,Accessories,East,6,2037.43,12224.58
+1362,25-06-2026,Headphones,Accessories,East,5,1950.52,9752.6
+1363,13-02-2026,Headphones,Accessories,North,4,5660.22,22640.88
+1364,17-02-2026,Headphones,Accessories,East,2,5821.78,11643.56
+1365,09-02-2026,Headphones,Accessories,North,7,1249.26,8744.82
+1366,21-06-2026,Headphones,Accessories,North,6,2182.99,13097.94
+1367,17-06-2026,Headphones,Accessories,East,7,1394.28,9759.96
+1368,21-01-2026,Headphones,Accessories,East,10,828.44,8284.4
+1369,17-06-2026,Headphones,Accessories,West,5,2161.35,10806.75
+1370,05-04-2026,Headphones,Accessories,North,8,1177.08,9416.64
+1371,09-02-2026,Headphones,Accessories,South,6,4562.92,27377.52
+1372,05-01-2026,Headphones,Accessories,North,5,2672.03,13360.15
+1373,13-05-2026,Headphones,Accessories,West,4,1831.2,7324.8
+1374,25-08-2026,Headphones,Accessories,North,5,2694.94,13474.7
+1375,13-06-2026,Headphones,Accessories,West,7,881.6,6171.2
+1376,09-05-2026,Headphones,Accessories,East,3,6371.64,19114.92
+1377,09-08-2026,Headphones,Accessories,West,9,677.25,6095.25
+1378,05-03-2026,Headphones,Accessories,North,5,2046.52,10232.6
+1379,17-01-2026,Headphones,Accessories,West,3,1977.43,5932.29
+1380,13-01-2026,Headphones,Accessories,South,7,2917.32,20421.24
+1381,05-06-2026,Headphones,Accessories,West,7,1220.67,8544.69
+1382,25-09-2026,Headphones,Accessories,West,7,1158.89,8112.23
+1383,17-09-2026,Headphones,Accessories,South,6,1004.41,6026.46
+1384,21-01-2026,Headphones,Accessories,South,6,2368.56,14211.36
+1385,21-05-2026,Headphones,Accessories,East,6,3236.9,19421.4
+1386,17-01-2026,Headphones,Accessories,West,6,927.81,5566.86
+1387,25-05-2026,Headphones,Accessories,South,7,2474.73,17323.11
+1388,09-06-2026,Headphones,Accessories,North,1,10367.39,10367.39
+1389,21-06-2026,Headphones,Accessories,South,10,2866.66,28666.6
+1390,13-05-2026,Headphones,Accessories,West,5,2256.89,11284.45
+1391,09-02-2026,Headphones,Accessories,West,6,2331.85,13991.1
+1392,05-01-2026,Headphones,Accessories,South,8,2553.2,20425.6
+1393,09-07-2026,Headphones,Accessories,West,5,1585.31,7926.55
+1394,09-01-2026,Headphones,Accessories,West,3,3686.07,11058.21
+1395,25-06-2026,Headphones,Accessories,East,3,4589.21,13767.63
+1396,09-08-2026,Keyboard,Accessories,East,4,1720.46,6881.84
+1397,17-04-2026,Keyboard,Accessories,North,10,785.9,7859.0
+1398,25-09-2026,Keyboard,Accessories,North,6,543.88,3263.28
+1399,21-09-2026,Keyboard,Accessories,East,8,753.82,6030.56
+1400,25-09-2026,Keyboard,Accessories,South,3,2610.76,7832.28
+1401,17-05-2026,Keyboard,Accessories,West,6,1307.29,7843.74
+1402,05-07-2026,Keyboard,Accessories,South,8,847.21,6777.68
+1403,05-05-2026,Keyboard,Accessories,East,8,1138.35,9106.8
+1404,13-08-2026,Keyboard,Accessories,North,4,1113.22,4452.88
+1405,21-09-2026,Keyboard,Accessories,South,9,814.24,7328.16
+1406,05-05-2026,Keyboard,Accessories,South,4,4645.15,18580.6
+1407,21-02-2026,Keyboard,Accessories,North,8,1501.82,12014.56
+1408,09-09-2026,Keyboard,Accessories,North,5,844.57,4222.85
+1409,09-07-2026,Keyboard,Accessories,West,4,1910.12,7640.48
+1410,09-06-2026,Keyboard,Accessories,South,4,4984.3,19937.2
+1411,09-01-2026,Keyboard,Accessories,East,6,1105.14,6630.84
+1412,25-04-2026,Keyboard,Accessories,East,1,9046.49,9046.49
+1413,09-02-2026,Keyboard,Accessories,West,5,1673.84,8369.2
+1414,25-04-2026,Keyboard,Accessories,South,6,1548.95,9293.7
+1415,13-07-2026,Keyboard,Accessories,South,5,2675.0,13375.0
+1416,05-09-2026,Keyboard,Accessories,East,3,1704.02,5112.06
+1417,05-01-2026,Keyboard,Accessories,West,6,1032.2,6193.2
+1418,21-02-2026,Keyboard,Accessories,West,2,3836.51,7673.02
+1419,25-07-2026,Keyboard,Accessories,South,8,648.54,5188.32
+1420,13-05-2026,Keyboard,Accessories,East,5,1157.8,5789.0
+1421,21-07-2026,Keyboard,Accessories,North,6,1332.43,7994.58
+1422,25-03-2026,Keyboard,Accessories,North,10,390.23,3902.3
+1423,21-02-2026,Keyboard,Accessories,South,8,2507.36,20058.88
+1424,25-07-2026,Keyboard,Accessories,South,7,1138.0,7966.0
+1425,05-05-2026,Keyboard,Accessories,East,5,1113.73,5568.65
+1426,25-04-2026,Keyboard,Accessories,North,6,1950.59,11703.54
+1427,09-09-2026,Keyboard,Accessories,West,4,1252.86,5011.44
+1428,05-08-2026,Keyboard,Accessories,North,4,2998.82,11995.28
+1429,25-05-2026,Keyboard,Accessories,East,7,1497.82,10484.74
+1430,17-01-2026,Keyboard,Accessories,North,6,1035.57,6213.42
+1431,09-06-2026,Keyboard,Accessories,North,3,4551.17,13653.51
+1432,21-01-2026,Keyboard,Accessories,North,4,1388.4,5553.6
+1433,13-06-2026,Keyboard,Accessories,South,6,2325.84,13955.04
+1434,13-04-2026,Keyboard,Accessories,East,6,1246.69,7480.14
+1435,13-08-2026,Keyboard,Accessories,East,10,1034.93,10349.3
+1436,13-08-2026,Keyboard,Accessories,East,5,2236.16,11180.8
+1437,05-01-2026,Keyboard,Accessories,South,3,4310.26,12930.78
+1438,13-09-2026,Keyboard,Accessories,East,7,746.03,5222.21
+1439,05-06-2026,Keyboard,Accessories,East,5,1526.75,7633.75
+1440,05-04-2026,Keyboard,Accessories,South,5,1520.41,7602.05
+1441,25-05-2026,Keyboard,Accessories,South,5,2795.39,13976.95
+1442,25-09-2026,Keyboard,Accessories,North,6,1036.05,6216.3
+1443,21-01-2026,Keyboard,Accessories,West,6,1121.37,6728.22
+1444,17-01-2026,Keyboard,Accessories,West,6,1225.42,7352.52
+1445,25-03-2026,Keyboard,Accessories,North,7,490.12,3430.84
+1446,05-01-2026,Keyboard,Accessories,North,8,1229.32,9834.56
+1447,25-03-2026,Keyboard,Accessories,West,1,8080.68,8080.68
+1448,09-09-2026,Keyboard,Accessories,South,5,1512.8,7564.0
+1449,25-09-2026,Keyboard,Accessories,West,6,653.68,3922.08
+1450,09-04-2026,Keyboard,Accessories,West,6,888.97,5333.82
+1451,05-09-2026,Keyboard,Accessories,West,7,581.57,4070.99
+1452,17-05-2026,Keyboard,Accessories,North,4,3223.67,12894.68
+1453,13-02-2026,Mouse,Accessories,North,6,730.75,4384.5
+1454,09-09-2026,Mouse,Accessories,South,7,334.68,2342.76
+1455,21-09-2026,Mouse,Accessories,North,6,208.08,1248.48
+1456,05-02-2026,Mouse,Accessories,South,6,1042.25,6253.5
+1457,05-04-2026,Mouse,Accessories,South,7,677.61,4743.27
+1458,13-03-2026,Mouse,Accessories,East,7,527.28,3690.96
+1459,17-02-2026,Mouse,Accessories,West,4,967.7,3870.8
+1460,13-07-2026,Mouse,Accessories,South,5,522.35,2611.75
+1461,05-09-2026,Mouse,Accessories,South,10,218.2,2182.0
+1462,17-02-2026,Mouse,Accessories,West,6,689.34,4136.04
+1463,17-09-2026,Mouse,Accessories,North,10,288.77,2887.7
+1464,21-09-2026,Mouse,Accessories,South,7,507.78,3554.46
+1465,21-01-2026,Mouse,Accessories,East,9,518.15,4663.35
+1466,13-07-2026,Mouse,Accessories,West,6,307.17,1843.02
+1467,21-08-2026,Mouse,Accessories,East,4,1495.1,5980.4
+1468,17-06-2026,Mouse,Accessories,North,6,860.68,5164.08
+1469,21-03-2026,Mouse,Accessories,South,6,928.96,5573.76
+1470,21-04-2026,Mouse,Accessories,North,5,774.54,3872.7
+1471,25-09-2026,Mouse,Accessories,West,7,330.19,2311.33
+1472,13-07-2026,Mouse,Accessories,North,3,1386.52,4159.56
+1473,13-03-2026,Mouse,Accessories,East,2,867.1,1734.2
+1474,05-09-2026,Mouse,Accessories,North,4,313.93,1255.72
+1475,25-05-2026,Mouse,Accessories,East,3,2299.54,6898.62
+1476,13-02-2026,Mouse,Accessories,North,5,860.67,4303.35
+1477,21-05-2026,Mouse,Accessories,South,6,1469.21,8815.26
+1478,13-09-2026,Mouse,Accessories,North,4,601.96,2407.84
+1479,21-07-2026,Mouse,Accessories,West,3,494.92,1484.76
+1480,17-05-2026,Mouse,Accessories,South,2,3782.76,7565.52
+1481,09-02-2026,Mouse,Accessories,West,6,1053.69,6322.14
+1482,13-03-2026,Mouse,Accessories,East,7,678.84,4751.88
+1483,13-04-2026,Mouse,Accessories,North,2,1263.84,2527.68
+1484,13-08-2026,Mouse,Accessories,East,2,2941.92,5883.84
+1485,17-02-2026,Mouse,Accessories,North,7,1016.14,7112.98
+1486,25-01-2026,Mouse,Accessories,East,5,949.73,4748.65
+1487,09-07-2026,Mouse,Accessories,East,6,349.67,2098.02
+1488,17-05-2026,Mouse,Accessories,West,7,794.96,5564.72
+1489,13-06-2026,Mouse,Accessories,East,9,518.5,4666.5
+1490,05-06-2026,Mouse,Accessories,South,6,920.15,5520.9
+1491,09-05-2026,Mouse,Accessories,West,8,618.13,4945.04
+1492,17-04-2026,Mouse,Accessories,East,7,447.95,3135.65
+1493,05-04-2026,Mouse,Accessories,South,4,2734.42,10937.68
+1494,09-04-2026,Mouse,Accessories,South,5,1490.91,7454.55
+1495,25-04-2026,Mouse,Accessories,West,4,1273.04,5092.16
+1496,13-05-2026,Mouse,Accessories,East,5,897.33,4486.65
+1497,17-08-2026,Mouse,Accessories,South,6,896.16,5376.96
+1498,17-05-2026,Mouse,Accessories,West,7,340.98,2386.86
+1499,13-07-2026,Mouse,Accessories,North,4,880.27,3521.08
+1500,05-02-2026,Mouse,Accessories,South,7,1340.86,9386.02
